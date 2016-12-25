@@ -87,7 +87,7 @@ cursor: pointer;
 
 
 
-<a href="http://cs3380.rnet.missouri.edu/~rml3md/lab9/lab9.php">Home</a></br></br>
+<a href="home.php">Home</a></br></br>
 
 
 <?php
