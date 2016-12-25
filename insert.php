@@ -38,13 +38,8 @@ font-size:20px;
 
 
 <body>
-<a href="http://cs3380.rnet.missouri.edu/~rml3md/lab9/lab9.php">Home</a>
-<!--
-<hr>
-<form action="" method="POST" class="col-md-4 col-md-offset-5">
-Name: 
-<input type="text" name="uName"></br></br>
-<input class="btn btn-primary" type="submit" name="submit" value="Create New User"> -->
+<a href="home.php">Home</a>
+
 
 <form method = "POST" name = "form">
 
